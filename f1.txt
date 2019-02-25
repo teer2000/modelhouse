@@ -1,4 +1,8 @@
 a
+<<<<<<< HEAD
 b
 c
 cd
+=======
+dfjdkfjdklfd
+>>>>>>> 0fa6f4be73f3b4a9cfc6e7bb6b2f6c2b52ddec84
